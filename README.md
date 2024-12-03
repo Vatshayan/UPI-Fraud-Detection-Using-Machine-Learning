@@ -26,7 +26,7 @@ This project presents a full-stack web application designed for the detection of
 
 Mail/Message me for Projects Help 🙏🏻
 
-### Contact me for any kind of help on blockchain projects.
+### Contact me for any kind of help on projects.
 
 ### Youtube Video : https://youtu.be/uzVdxlG1gIY?si=7-L7cad6Swb51qOx
 
