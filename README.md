@@ -1,8 +1,5 @@
 # UPI-Fraud-Detection-Using-Machine-Learning
 
-![python thumbnail](https://github.com/user-attachments/assets/fa0db9c2-b84a-410d-b166-9757ec2e3e53)
-
-
 UPI Fraud Detection Using Machine Learning Project with Source Code and documents
 
 ![7ZRhgW-yS-Cnjkvf8O0y0g](https://github.com/user-attachments/assets/90c393dc-49d6-4461-a729-763006292580)
